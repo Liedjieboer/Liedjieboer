@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @Liedjieboer
-- 👀 I’m interested in music, sport and making sense of things
-- 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on TBC
-- 📫 How to reach me ...
+- 👀 I’m interested in making sense of things and helping others to make sense of them too.
+- 🌱 I’m currently looking for a job where I can use my newly acquired skills
 
 <!---
 Liedjieboer/Liedjieboer is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
